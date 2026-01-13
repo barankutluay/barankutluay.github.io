@@ -13,4 +13,4 @@ Natura App ile ilgili sorularınız, görüşleriniz veya yardım talepleriniz i
 Detaylı bilgi için [Gizlilik Politikamızı](privacy_policy_tr.md) inceleyebilirsiniz.
 
 ---
-*Natura App Ekibi*
+*Baran Kutluay*
