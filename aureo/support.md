@@ -4,7 +4,7 @@ Aureo ile ilgili sorularınız, görüşleriniz veya yardım talepleriniz için 
 
 ## İletişim Bilgileri
 
-* **E-posta:** [barankutluay19@gmail.com](mailto:barankutluay19@gmail.com)
+* **E-posta:** [help@getaureo.app](mailto:help@getaureo.app)
 * **Web Sitesi:** [barankutluay.github.io](https://barankutluay.github.io)
 
 ## Sıkça Sorulan Sorular (SSS)
