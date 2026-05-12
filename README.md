@@ -7,7 +7,7 @@
 * [Gizlilik Politikası (Privacy Policy)](/natura/privacy_policy_tr)
 * [Destek ve İletişim (Support)](/natura/support)
 
-### Natura App
+### Aureo
 
 * [Gizlilik Politikası (Privacy Policy)](/aureo/privacy_policy_tr.pdf)
-* [Destek ve İletişim (Support)](/natura/support)
+* [Destek ve İletişim (Support)](/aureo/support)
